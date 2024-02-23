@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Scripts: MonoBehaviour
+public class MiddleBtwCubes: MonoBehaviour
 {
     public Transform BlueCube1;
     public Transform BlueCube2;
